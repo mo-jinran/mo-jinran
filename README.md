@@ -1,9 +1,6 @@
 # Hi there 👋
 
-男，16岁，是一只变态Furry  
-是胆小的，是社恐的，是内向的  
-代码只是感兴趣而已，纯粹写着玩的  
-不过想跟Furry兽兽一起写写代码~  
+男，16岁，是一只社恐Furry，比较胆小内向  
 C++，Kotlin，Python，Javascript  
 HTML，CSS，Vue.js  
 Node.js，Electron  
