@@ -1,6 +1,6 @@
 # Hi there 👋
 
-男，16岁，是一只社恐Furry，比较胆小内向  
+一只社恐Furry，比较胆小内向  
 C++，Kotlin，Python，Javascript  
 HTML，CSS，Vue.js  
 Node.js，Electron  
